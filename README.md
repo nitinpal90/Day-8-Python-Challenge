@@ -1,4 +1,4 @@
-# 🌟 Day 7 of my #PythonChallenge! 🌟
+# 🌟 Day 8 of my #PythonChallenge! 🌟
 
  Today I learned:
 
